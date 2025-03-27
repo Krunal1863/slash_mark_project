@@ -1,0 +1,6 @@
+in this practical i upload minor project  nad 
+
+
+model 1 is basically about mnist dataset
+link  for dataset  :
+
